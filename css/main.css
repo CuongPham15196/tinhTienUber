@@ -512,8 +512,9 @@ input[type=radio]:checked ~ label{
   }
  /* End don gia   */
 
- /*div thanh tien*/
- #divThanhTien{
+/*div thanh tien*/
+#divThanhTien{
   display: none ;
- }
- /* End div thanh tien */
+}
+/* End div thanh tien */
+
